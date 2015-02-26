@@ -1,0 +1,2 @@
+# ScriptGenGUI
+Script generator interface
